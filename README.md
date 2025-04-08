@@ -4,6 +4,8 @@ Date: April 8, 2025:
 
 a) Currently, having trOCR demo with hugging face models - and only printed models are being used.
 b) TrOCR fine tuned with curved texts in images and explore how the matching accuracy is.
+https://learnopencv.com/fine-tuning-trocr-training-trocr-to-recognize-curved-text/
+
 Summary, 
 a) the normal trOCR with line-line cropping and with minimal colors and uniform text
 seem to be processing ok. Not extensively tried out though.
